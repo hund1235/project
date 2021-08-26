@@ -1,0 +1,27 @@
+QUIZ1
+1. Data is a fact that can be recorded and organized and represents real world entintities
+2. Information is a purposefully organized to convey some sort of meaningful
+   interpretation. It is more informative among people.
+3.DB is an organized collection of structured data that is stored in a computer.
+4.RDBMS is software designed to store, retrieve, and manage data as well as maintain
+  relationships between its tables.
+5.RDBMS makes it easier to store trillions of data securily, helps to backup data,
+  provides the opportunity to run multiple data simultaneousily. It also interacts
+  with system applications to in order to modify, retrieve and delete data.
+6.RDBMS(SQL) tables organizes structured data fields into defined columns and there 
+ is interrelationship between tables. But in case of NoSql(nonrelational DB)tables are 
+  not incorporated, instead can be stored in a single document file. 
+7.MYSQL, Oracle, Microsoft access, Microsoft SQL server and PostgreSQL
+8.MOngoDB, DocumentDB, Cassandra
+9.SQL represents a Structured Query Language. It is a language that database understan
+  ds so that users can communicate for any purpose.
+10.DDL represents Data Definition Language and includes commands that affects database
+ or schema and tables, generally it is autocommit.
+ DMLs are languages that enable users to insert, update, delete and retrieve data from DB.
+ DCLs are DB languages that helps for controlling users.
+ TCLs DB languages that enables users to commit the transaction, rollback the transaction
+ if necessary. The transaction should be consistent and durable.
+11. Table is an object that holds data as column and rows while retaining relationships among tables.
+12.Columns carry attributes and rows carry records. 
+
+   
