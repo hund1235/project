@@ -1,0 +1,9 @@
+# Field	Type	Null	Key	Default	Extra
+cust_ID	int	NO			
+cust_firstName	varchar(255)	NO			
+cust_lastName	varchar(255)	NO			
+cust_nickName	varchar(255)	YES			
+cust_age	int	YES			
+cust_gender	varchar(255)	NO			
+cust_country	varchar(255)	NO			
+cust_salary	int	NO			
